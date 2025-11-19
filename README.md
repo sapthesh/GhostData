@@ -1,5 +1,22 @@
 # GhostData | Secure Metadata Remover
 
+<div align="left">
+    
+  <!-- Dynamic Badges -->
+  <a href="https://github.com/sapthesh/GhostData/stargazers">
+    <img src="https://img.shields.io/github/stars/sapthesh/GhostData?style=for-the-badge&logo=github&color=b491ff&logoColor=white" alt="Stars">
+  </a>
+  <a href="https://github.com/sapthesh/GhostData/network/members">
+    <img src="https://img.shields.io/github/forks/sapthesh/GhostData?style=for-the-badge&logo=github&color=89c4f4&logoColor=white" alt="Forks">
+  </a>
+  <img src="https://img.shields.io/github/repo-size/sapthesh/GhostData?style=for-the-badge&logo=github&color=ff69b4&logoColor=white" alt="Repo Size">
+  <img src="https://img.shields.io/github/last-commit/sapthesh/GhostData?style=for-the-badge&logo=github&color=f4d03f&logoColor=white" alt="Last Commit">
+  <a href="https://hits.sh/github.com/sapthesh/GhostData/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/GhostData.svg?style=for-the-badge"/></a>
+  <a href="https://hits.sh/github.com/sapthesh/GhostData/"><img alt="Hits" src="https://hits.sh/github.com/sapthesh/GhostData.svg?view=today-total&style=for-the-badge&color=fe7d37"/></a>
+</div>
+
+---
+
 GhostData is a secure, browser-only, offline tool designed to remove sensitive metadata (EXIF, GPS, XMP) from your photos, documents, and videos before you share them.
 
 ## 🛡️ Privacy First Philosophy
