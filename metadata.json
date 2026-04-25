@@ -1,0 +1,6 @@
+{
+  "name": "GhostData - Metadata Scrubber",
+  "description": "A secure, browser-only offline tool to remove EXIF data, GPS coordinates, and metadata from your photos and documents before sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
